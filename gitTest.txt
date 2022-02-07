@@ -3,3 +3,11 @@
 여러분
 환영합니다!
 Ctrl + s = 저장키
+Ctrl + ~ = 터미널 열기 단축키
+
+git init = 해당 폴더를 git에서 관리하는 폴더로 만들어 줌
+git status = 현재 소스코드 관리 상태를 말해준다.
+
+git add gitTest.txt 23123
+
+git commit -m "첫 커밋"
