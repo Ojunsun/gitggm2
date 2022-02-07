@@ -1,5 +1,5 @@
 안녕하세요
-게마고 3기생=> add comit push
+겜마고 3기생=> add comit push
 여러분
 환영합니다!
 Ctrl + s = 저장키
@@ -11,3 +11,6 @@ git status = 현재 소스코드 관리 상태를 말해준다.
 git add gitTest.txt 23123
 
 git commit -m "첫 커밋"
+
+개발자 1과 개발자2가 모두 add와 commit을 수행하고
+개발자 2만 push까지 진행
